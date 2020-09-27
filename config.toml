@@ -21,7 +21,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = ""
+  site_logo = "/images/ccca_horizontal_logo_880x140.svg"
   description = "Building an even better community... together!"
   facebook = "https://www.facebook.com/groups/395044333916294"
   twitter = ""
