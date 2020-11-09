@@ -1,7 +1,7 @@
 ---
 title: "Accomplishments"
 date: 2014-09-09
-draft: true
+draft: false
 author: "Sean Crossan"
 ---
 

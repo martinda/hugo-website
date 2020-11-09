@@ -1,5 +1,5 @@
 title =  "Association Communautaire Cardinal Creek Community Association"
-baseURL = "http://cardinalcreek.org/"
+baseURL = "http://hugo.cardinalcreek.org/"
 languageCode = "en-us"
 theme = "ananke"
 
