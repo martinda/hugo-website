@@ -6,7 +6,7 @@ theme = "ananke"
 DefaultContentLanguage = "en"
 copyright = "Association Communautaire Cardinal Creek Community Association"
 
-SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 pluralizelisttitles = false
 Paginate = 10
 googleAnalytics = ""
@@ -52,9 +52,33 @@ enableRobotsTXT = true
     weight = 1
     [languages.en.params]
       linkedin = ""
+    [[languages.en.menu.main]]
+      url = "/"
+      name = "Home"
+      weight = 1
+    [[languages.en.menu.main]]
+      url = "/association"
+      name = "Association"
+      weight = 2
+    [[languages.en.menu.main]]
+      url = "/community"
+      name = "Community"
+      weight = 3
   [languages.fr]
     title = "Association Communautaire Cardinal Creek"
-    weight = 2
+    weight = 1
+    [[languages.fr.menu.main]]
+      url = "/"
+      name = "Accueil"
+      weight = 1
+    [[languages.fr.menu.main]]
+      url = "/association"
+      name = "Association"
+      weight = 2
+    [[languages.fr.menu.main]]
+      url = "/community"
+      name = "Communauté"
+      weight = 3
     [languages.fr.params]
       linkedin = ""
       [languages.fr.params.navigation]
