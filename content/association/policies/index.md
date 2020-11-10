@@ -14,7 +14,7 @@ The Cardinal Creek Community Association operates one public mailing list
 2. Subscription is automatic when you sign in the sheet at the public meetings with your email address. Please let us know if you do not wish to be added to the list at that time.
 3. Residents can also sign up on-line to become a member the mailing lists. As part of the registration process, we will need to confirm that you reside in the area of the Cardinal Creek Community Association.
 4. Exceptionally, the CCCA board of directors can allow non-residents can become list members, if it is in the interest of the residents of the community.
-5. List members can unsubscribe themselves anytime they want by visiting the mailing list web interface (enter your email and password, then click unsubscribe).
+5. List members can unsubscribe themselves anytime they want by visiting the [mailing list web interface](http://cardinalcreek.org/mailman/listinfo/ccca-announce_cardinalcreek.org) (enter your email and password, then click unsubscribe).
 6. Members can also chose to receive DIGESTS instead of individual emails. This will reduce the number of emails in your inbox. To enable digests, visit your membership page, logon to it and look for the “digest” option.
 7. We do not share the list of members with anyone at anytime, in whole or in part, including with the members themselves.
 
