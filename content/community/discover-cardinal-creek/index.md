@@ -5,9 +5,11 @@ draft: false
 author: "Kathleen Black"
 ---
 
-![Cardinal Creek](cardinal_creek.jpg)
 Cardinal Creek is one of the last remaining natural treasures in Orleans.
 It houses a full ecosystem: a variety of native trees, plants and flowers feed a number of insects and small animals, which attract larger predators.
+
+![Cardinal Creek](cardinal_creek.jpg)
+<!--more-->
 
 The southern section of the creek karst is recognized by Ontario’s Ministry of Natural Resources as an Area of Natural and Scientific Interest (ANSI).
 The entire creek has also been monitored by the Rideau Valley Conservation Authority’s City Stream Watch.

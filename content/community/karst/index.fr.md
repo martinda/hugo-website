@@ -9,6 +9,7 @@ Le territoire de Cardinal Creek comprend un site géologique appellé Karst.
 {{< youtube P6w7xMh3aoU >}}
 
 Le Karst de Cardinal Creek a été désigné Zones d’intérêt naturel et scientifique (ZINS) par le gouvernement provincial de l'Ontario.
+<!--more-->
 
 Les documents suivants sont disponibles en anglais seulement.
 
