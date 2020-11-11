@@ -68,15 +68,15 @@ enableRobotsTXT = true
     title = "Association Communautaire Cardinal Creek"
     weight = 1
     [[languages.fr.menu.main]]
-      url = "/"
+      url = "/fr"
       name = "Accueil"
       weight = 1
     [[languages.fr.menu.main]]
-      url = "/association"
+      url = "/fr/association"
       name = "Association"
       weight = 2
     [[languages.fr.menu.main]]
-      url = "/community"
+      url = "/fr/community"
       name = "Communauté"
       weight = 3
     [languages.fr.params]
