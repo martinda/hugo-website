@@ -4,44 +4,46 @@ date: 2020-11-10T14:21:50-05:00
 draft: false
 ---
 
-Located outside of Cardinal Creek, in a sister neighbouhood called
-[Cardinal Creek Village](https://www.cardinalcreekvillage.org/), is the Mill of Isidore Cardinal.
+Hors des limites du territoire de l'association, dans le quartier de 
+[Cardinal Creek Village](https://www.cardinalcreekvillage.org/)
+est situé l'ancien moulin d'Isidore Cardinal.
 
-In 1885, Isidore Cardinal purchased a 100 acre property from Honoré Cotte just north of Montreal Road,
-on the creek that we now know as the Cardinal Creek.
-The dam and the mill were already in place when Isidore Cardinal purchased the property.
-The mill can be seen on this old photograph.
-The mill remained in operation until 1957 (source: [The Caboose – March 2005 edition](https://cths.ca/wp-content/uploads/2017/06/The-Caboose-March-2005.pdf)).
+En 1885, Isidore Cardinal achète une propriété de 100 acres appartenant à Honoré Cotte, tout juste au nord du chemin Montréal,
+sur les rives d'un cours d'eau que l'on nomme de nos jours le ruisseau Cardinal.
+Le barrage et le moulin sont déjà en place lors de l'achat par Isidore Cardinal.
+Une ancienne photographie montre le moulin.
+Le moulin a été opérationel jusqu'en 1957
+(source: [The Caboose – Édition Mars 2005](https://cths.ca/wp-content/uploads/2017/06/The-Caboose-March-2005.pdf)).
 
-![The mill of Isidore Cardinal](CardinalMill-small.png "The mill of Isidore Cardinal")
+![Le moulin d'Isidore Cardinal](CardinalMill-small.png "Le moulin d'Isidore Cardinal")
 
-Today on the location of the mill stand the ruins of the dam and the mill. Below are some pictures taken in the fall of 2012.
+Aujourd'hui il ne reste que des ruines du moulin et du barrage.
+Ci-dessous des photographies prises à l'automne 2012.
 
-First, what remains of the mill are foundation walls and structures on the ground. A young forest has grown since the mill was closed.
+La première photo montre ce qui reste du moulin, les murs de fondation et des structures au sol.
+Une jeune forêt a poussé depuis la fermeture du moulin.
 
-![The Cardinal Mill ruins](IMG_4128-small.JPG "The Cardinal Mill ruins")
+![Les ruines du moulin Cardinal](IMG_4128-small.JPG "Les ruines du moulin Cardinal")
 
-Turning the camera towards the creek, we can see that portions of the dam are still standing.
-In the 1960's, this happened to be favourite location for young people to enjoy the creek on hot summer days.
-People could jump from the wall of the dam into the creek.
-Today the water levels are too low for that due to urbanization upstream in the watershed.
+En regardant vers le ruissean à partir des ruines, nous voyons qu'une portion du barrage est toujours debout.
+Dans les années 1960, c'était un lieu fréquenté par les jeunes afin de se rafraichir lors des journées chaudes de l'été.
+Il était possible de plonger dans le bassin d'eau à partir du barrage.
+De nos jours, le niveau du ruisseau est trop bas car il a été asséché par l'urbanisation en amont.
 
-[The dam, seen from where the mill used to stand](IMG_4107-small.JPG "The dam, seen from where the mill used to stand")
-Turning the camera back towards the mill, standing in the creek, we can see a wall which appears to be channel for the water to enter into the mill (or was it for logs?)
+![Le barrage, vu des ruines du moulin](IMG_4107-small.JPG "Le barrage, vu des ruines du moulin")
 
-Channel for water
-A channel runs on top of the wall - Une canalisation au sommet du mur incliné
+Vu du centre du ruisseau, en regardant vers le moulin, nous voyons un mur supportant un canal dans lequel l'eau devait s'écouler (où était-ce pour des billots de bois?).
 
-The next picture shows a circular feature near the bottom of the water conduit.
+![Un mur portant un canal](IMG_4112-small.JPG "Un mur portant un canal")
 
-A circular feature on the water conduit - Un système circulaire sur le conduit d'eau
-A circular feature on the water conduit - Un système circulaire sur le conduit d'eau
+La photographie suivante montre une structure circulaire au bas du conduit d'eau.
 
-On the next picture, we can see a reservoir where the water went after it left the conduit:
+![Une structure circulaire au bas du conduit d'eau](IMG_4129-small.JPG "Une structure circulaire au bas du conduit d'eau")
 
-A reservoir - Un réservoir
-A reservoir - Un réservoir
+La photo suivant montre un réservoir où l'eau devait s'écouler après avoir quitté le conduit.
 
-Now looking at the water outlet, downstream from the reservoir, nearly at the same elevation:
+![Un réservoir](IMG_4132-small.JPG "Un réservoir")
 
-The water outlet - La sortie d'eau
+La dernière photo montre la sortie d'eau du réservoir, quasiment à la même élévation que le réservoir.
+
+![Sortie d'eau](IMG_4140-small.JPG "Sortie d'eau")
